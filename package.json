@@ -1,0 +1,25 @@
+{
+  "name": "suntiago93-backend-postman",
+  "version": "1.0.0",
+  "description": "- universidad [link] (https://github.com/suntiago93/suntiago93-Backend-postman.git)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no tmest specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suntiago93/suntiago93-Backend-postman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suntiago93/suntiago93-Backend-postman/issues"
+  },
+  "homepage": "https://github.com/suntiago93/suntiago93-Backend-postman#readme"
+}
